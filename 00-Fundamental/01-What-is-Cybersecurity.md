@@ -1,3 +1,4 @@
+# What is Cyber Security?
 # 🎯 Learning Objectives
 After completing this lesson, I can:
 - Explain what Cyber Security is.
