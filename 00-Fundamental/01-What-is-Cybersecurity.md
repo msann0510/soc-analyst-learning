@@ -1,1 +1,103 @@
+# What is Cyber Security?
 
+## 🎯 Learning Objectives
+After completing this lesson, I can:
+- Explain what Cyber Security is.
+- Explain why Cyber Security is important.
+- Identify digital assets that need protection.
+- Explain the main objectives of Cyber Security.
+- Understand the role of a SOC Analyst.
+
+# 📖 What is Cyber Security?
+Cyber Security is the process of protecting systems, networks, applications, devices, 
+and data from cyber threats such as unauthorized access, malware, ransomware, data theft, and service disruption.
+Cyber Security is not a one-time product or solution. It is a continuous process because threats constantly evolve.
+
+=============================================================
+
+# 🌍 Why is Cyber Security Important?
+Today almost every organization depends on digital technology.
+
+Examples include:
+- Banking
+- Healthcare
+- Government
+- Education
+- E-commerce
+- Private Companies
+
+Without proper security, organizations may experience:
+- Data breaches
+- Financial losses
+- Service disruption
+- Reputation damage
+
+=============================================================
+
+# 🛡️ Digital Assets
+Cyber Security protects valuable digital assets.
+
+## Data
+- Passwords
+- Documents
+- Customer Database
+- Medical Records
+
+## Devices
+- Laptop
+- Desktop
+- Server
+- Smartphone
+
+## Network
+- Router
+- Switch
+- Wi-Fi
+- VPN
+
+## Applications
+- Website
+- Mobile Application
+- Email Server
+
+## Identity
+- Google Account
+- Microsoft Account
+- GitHub Account
+- Domain Account
+
+============================================================
+
+# 🎯 Main Objectives of Cyber Security
+Cyber Security has four main objectives.      
+--- Prevent
+    Prevent cyber attacks before they happen.
+--- Detect
+    Detect suspicious activities as quickly as possible.
+--- Respond
+    Take action when an incident occurs.
+--- Recover
+    Restore systems and services after an incident.
+
+=============================================================
+
+# 👨‍💻 What is a SOC Analyst?
+A SOC (Security Operations Center) Analyst is responsible for monitoring security alerts, analyzing logs, 
+investigating suspicious activities, escalating incidents, and creating incident reports.
+
+
+# 🔑 Key Terms
+|      Term     |                Meaning                  |
+|---------------|-----------------------------------------|
+| Asset         | Anything valuable that needs protection |
+| Threat        | A potential danger                      |
+| Vulnerability | A weakness that can be exploited        |
+| Risk          | The possibility of loss or damage       |
+| SOC           | Security Operations Center              |
+
+==============================================================
+
+# 📝 Summary
+Cyber Security is a continuous process of protecting digital assets against cyber threats. 
+A SOC Analyst plays an important role in monitoring, detecting, and responding to security incidents 
+to maintain the confidentiality, integrity, and availability of information systems.
