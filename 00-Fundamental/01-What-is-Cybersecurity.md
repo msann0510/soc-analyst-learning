@@ -70,23 +70,23 @@ Cyber Security protects valuable digital assets.
 
 # 🎯 Main Objectives of Cyber Security
 Cyber Security has four main objectives.      
-### -Prevent
+### Prevent
 Prevent cyber attacks before they happen. Example: 
 - Firewall
 - Antivirus
 - MFA
-### -Detect
+### Detect
 Detect suspicious activities as quickly as possible. Example: 
 - SIEM
 - IDS
 - EDR
 - Monitoring Log
-### -Respond
+### Respond
 Take action when an incident occurs. Example: 
 - Blocking an account
 - Isolating a computer
 - Disconnecting the network connection
-### -Recover
+### Recover
 Restore systems and services after an incident. Example: 
 - Restore backup
 - Restore server
