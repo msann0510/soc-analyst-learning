@@ -122,3 +122,19 @@ to maintain the confidentiality, integrity, and availability of information syst
 3. List five categories of digital assets. Why is a digital identity considered an asset? 
 4. List the four primary objectives of cybersecurity. 
 5. What are the main responsibilities of an SOC analyst?
+
+# 🎯 Mini Project
+### Case Study: 
+- A company has an e-commerce website
+- A customer database
+- Corporate email
+- A file server
+- 20 employee laptops
+- Office Wi-Fi.
+### Task - Group all these assets into the following categories: 
+1. Data
+2. Device
+3. Network
+4. Application
+5. Identity.
+#### - Select the three assets you believe are most critical to secure first. Explain your reasoning.
