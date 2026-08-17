@@ -116,9 +116,9 @@ A SOC Analyst plays an important role in monitoring, detecting, and responding t
 to maintain the confidentiality, integrity, and availability of information systems.
 
 ==============================================================
-📝 Quiz
-1.What is meant by cybersecurity? 
-2.Why is cybersecurity described as a process? 
-3.List five categories of digital assets. Why is a digital identity considered an asset? 
-4.List the four primary objectives of cybersecurity. 
-5.What are the main responsibilities of an SOC analyst?
+# 📝 Quiz
+- 1.What is meant by cybersecurity? 
+- 2.Why is cybersecurity described as a process? 
+- 3.List five categories of digital assets. Why is a digital identity considered an asset? 
+- 4.List the four primary objectives of cybersecurity. 
+- 5.What are the main responsibilities of an SOC analyst?
