@@ -108,14 +108,13 @@ investigating suspicious activities, escalating incidents, and creating incident
 | Risk          | The possibility of loss or damage       |
 | SOC           | Security Operations Center              |
 
-==============================================================
-
 # 📝 Summary
 Cyber Security is a continuous process of protecting digital assets against cyber threats. 
 A SOC Analyst plays an important role in monitoring, detecting, and responding to security incidents 
 to maintain the confidentiality, integrity, and availability of information systems.
 
 ==============================================================
+
 # 📝 Quiz
 1. What is meant by cybersecurity? 
 2. Why is cybersecurity described as a process? 
