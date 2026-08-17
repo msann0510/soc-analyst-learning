@@ -70,14 +70,14 @@ Cyber Security protects valuable digital assets.
 
 # 🎯 Main Objectives of Cyber Security
 Cyber Security has four main objectives.      
---- Prevent
-    Prevent cyber attacks before they happen.
---- Detect
-    Detect suspicious activities as quickly as possible.
---- Respond
-    Take action when an incident occurs.
---- Recover
-    Restore systems and services after an incident.
+### Prevent
+Prevent cyber attacks before they happen.
+### Detect
+Detect suspicious activities as quickly as possible.
+### Respond
+Take action when an incident occurs.
+### Recover
+Restore systems and services after an incident.
 
 =============================================================
 
