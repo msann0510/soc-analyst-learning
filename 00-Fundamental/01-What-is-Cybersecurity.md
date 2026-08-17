@@ -1,4 +1,4 @@
-## 🎯 Learning Objectives
+# 🎯 Learning Objectives
 After completing this lesson, I can:
 - Explain what Cyber Security is.
 - Explain why Cyber Security is important.
