@@ -121,7 +121,7 @@ to maintain the confidentiality, integrity, and availability of information syst
 4. List the four primary objectives of cybersecurity. 
 5. What are the main responsibilities of an SOC analyst?
 
-# 🎯 Mini Case
+# 🕵️ Mini Case
 ### Case Study: 
 - A company has an e-commerce website
 - A customer database
